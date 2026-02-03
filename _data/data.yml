@@ -10,7 +10,7 @@ contact:
 hardskills:
   skill:
     - Linux, CI/CD, Git, Gitlab, GitHub, Ansible, Docker, DevOps
-    - Python, Bash, C/C++, Java, JavaScript, TypeScript, Fullstack, Backend, Frontend
+    - Python, Bash, C/C++, C#, Java, JavaScript, TypeScript, Fullstack, Backend, Frontend
     - MongoDB, MySQL, SQLite, Google API, Google Cloud Console
     - N8N, Agents, MCP, Claude Code, Checkly
     - Infrastructure, automation, monitoring
@@ -34,3 +34,4 @@ bio: |
   development, infrastructure automation, system administration and CI/CD. 
   Strong focus on code  quality and maintainability. Experienced in both 
   collaborative team environments and independent project delivery.
+
